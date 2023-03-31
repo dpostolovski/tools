@@ -4,3 +4,6 @@ https://github.com/google/tensorflow-recorder - create TensorFlow records (TFRec
 
 # Clustering
 https://github.com/facebookresearch/faiss - efficient similarity search and clustering of dense vectors.
+
+# time series
+https://github.com/facebookresearch/Kats - a kit to analyze time series data
