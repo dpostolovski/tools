@@ -84,6 +84,10 @@ https://github.com/SeldonIO/seldon-core
 ## Hyperparameter optimization
 https://github.com/optuna/optuna 
 
+https://github.com/optuna/optuna-examples
+
+
+
 ## Ground truth
 https://github.com/heartexlabs/label-studio - Manual data labeling
 
@@ -94,6 +98,11 @@ https://github.com/swimmio/docs.swimm.io - Saas for code documentation
 
 https://github.com/quarto-dev/quarto-cli - Create markdown documentation with more content (tables, code snipets...)
 
+
+
+# Management & leadership
+
+https://github.com/backstage/backstage - Development portals
 
 
 
@@ -114,6 +123,12 @@ https://github.com/pallets/click - CLI building tool.
 https://github.com/joealcorn/laboratory - Testing in production. Shadow code execution, compare results.
 
 https://github.com/statelyai/xstate - State machines
+
+https://github.com/pyeventsourcing/eventsourcing - Event sourcing library python
+
+https://github.com/absent1706/sqlalchemy-mixins
+
+https://github.com/donnemartin/system-design-primer - Learn how to design large-scale systems. Prep for the system design interview.
 
 
 
@@ -142,6 +157,17 @@ https://github.com/psf/black - Python formatter
 ## Frontend tools
 
 https://github.com/storybookjs/storybook - Develop UI components and pages in isolation.
+
+https://github.com/clauderic/dnd-kit - Drag and drop for react.
+
+https://github.com/react-boilerplate/react-boilerplate - React bootstrap/boilerplate.
+
+https://github.com/ionic-team/capacitor - run web apps natively on iOS, Android, Web. 
+
+https://github.com/ionic-team/ionic-framework - UI toolkit
+
+
+
 
 
 
@@ -191,6 +217,10 @@ https://github.com/django-json-api/django-rest-framework-json-api - JSON:API sup
 
 https://github.com/cookiecutter/cookiecutter-django - jumpstarting production-ready Django projects quickly.
 
+https://github.com/Abdenasser/dr_scaffold - Code generation for Django. ```python manage.py dr_scaffold blog Post body:textfield author:foreignkey:Author```
+
+https://github.com/AltSchool/dynamic-rest - API features that empower simple RESTful APIs with the flexibility of a graph query language. for DRF.
+
 
 
 
@@ -202,10 +232,26 @@ https://github.com/lmacken/pyrasite - Inject code into running Python processes
 # Databases
 https://github.com/cockroachdb/cockroach - Cloud native distributed SQL 
 
+# ETL
+
+https://github.com/dagster-io/dagster - Orchestration for data pipelines.
+
+
 
 # Data
 
 https://github.com/amundsen-io/amundsen - Data catalog
+
+https://github.com/great-expectations/great_expectations - Data validation
+
+https://github.com/singer-io - Moving data between services and databases
+
+https://github.com/Netflix/genie -  distributed job orchestration engine. run a variety of big data jobs like Hadoop, Pig, Hive, Spark, Presto, Sqoop.
+
+
+
+
+
 
 
 ## Transformations
