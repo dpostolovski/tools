@@ -4,6 +4,10 @@ https://github.com/google-research/google-research
 
 https://github.com/tensorflow/similarity - clustering
 
+https://github.com/tensorflow/models
+
+https://github.com/jina-ai/jina - multimodal MLOps framework
+
 
 
 ## Transformers
@@ -19,6 +23,10 @@ https://github.com/bighuang624/DSANet
 https://github.com/jsyoon0823/Time-series-prediction
 
 https://github.com/salesforce/Merlion - probably most comprehensive set of features
+
+https://github.com/microsoft/qlib -  AI-oriented quantitative investment platform
+
+
 
 
 

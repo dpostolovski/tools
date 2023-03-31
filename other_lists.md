@@ -1,5 +1,7 @@
 
 
+https://github.com/EthicalML/awesome-production-machine-learning
+
 https://github.com/awesome-foss/awesome-sysadmin
 
 https://github.com/awesome-selfhosted/awesome-selfhosted

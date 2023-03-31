@@ -31,6 +31,8 @@ https://github.com/cilium/cilium - providing, securing, and observing network co
 https://github.com/infracost/infracost - Cloud cost estimates for Terraform in pull requests
 
 
+
+
 ## Security
 
 https://github.com/open-policy-agent/opa -  general-purpose policy engine, allow/deny requests, actions
@@ -101,6 +103,37 @@ https://github.com/IDSIA/sacred - configure, organize, log and reproduce experim
 
 https://github.com/ray-project/ray - Distributed whole AI model lifecycle. training, serving, preprocessing. 5*
 
+https://github.com/Netflix/metaflow 
+
+https://github.com/voila-dashboards/voila - jupyter notebooks to web apps / dashboards
+
+https://github.com/EpistasisLab/tpot - Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
+
+https://github.com/microsoft/nni - AutoML toolkit 
+
+https://github.com/keras-team/autokeras - AutoML
+
+https://github.com/triton-inference-server/server - serving models
+
+https://github.com/BayesWitnesses/m2cgen - Transform ML models into a native code 
+
+https://github.com/zenml-io/zenml - MLOps framework
+
+https://github.com/allegroai/clearml - MLOps framework
+
+https://github.com/pycaret/pycaret - AutoML 
+
+https://github.com/tensorflow/tfx - Tensorflow end to end pipelines
+
+https://github.com/cortexlabs/cortex - Deploy ML models
+
+https://github.com/iterative/cml - Results in a pull request
+
+https://github.com/kedro-org/kedro - Data catalog, pipelines, deployment
+
+
+
+
 
 
 ## Augmentation
@@ -110,6 +143,9 @@ https://github.com/facebookresearch/AugLy
 https://github.com/optuna/optuna 
 
 https://github.com/optuna/optuna-examples
+
+https://github.com/kubeflow/katib 
+
 
 
 
@@ -172,6 +208,7 @@ https://github.com/apicollective/apibuilder - Comprehensive Tooling for APIs, au
 
 https://github.com/Kong/kong - API gateway
 
+https://github.com/nameko/nameko - microservice frameowork for python 
 
 
 
@@ -271,10 +308,24 @@ https://github.com/cockroachdb/cockroach - Cloud native distributed SQL
 https://github.com/dagster-io/dagster - Orchestration for data pipelines.
 
 
+# Dashbords
+
+
+https://github.com/getredash/redash - Dashboard tool, multi datasources
+
+https://github.com/ToolJet/ToolJet - Dashboards
 
 # Data
 
 https://github.com/amundsen-io/amundsen - Data catalog
+
+https://github.com/datahub-project/datahub - Data catalog
+
+https://github.com/quiltdata/quilt - Data versioning
+
+https://github.com/activeloopai/deeplake - Data framework, management, labeling, streaming of data
+
+https://github.com/snorkel-team/snorkel - generation of data
 
 https://github.com/great-expectations/great_expectations - Data validation
 
