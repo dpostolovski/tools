@@ -20,3 +20,5 @@ https://github.com/facebookresearch/salina - a Lightweight library for sequentia
 https://github.com/qubvel/segmentation_models.pytorch
 
 https://github.com/facebookresearch/detectron2
+
+https://github.com/facebookresearch/vissl - self supervised image models
