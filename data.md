@@ -7,3 +7,8 @@ https://github.com/facebookresearch/faiss - efficient similarity search and clus
 
 # time series
 https://github.com/facebookresearch/Kats - a kit to analyze time series data
+
+
+# Graphs
+
+https://github.com/Accenture/AmpliGraph Knowledge graphs

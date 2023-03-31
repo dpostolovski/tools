@@ -95,6 +95,14 @@ https://github.com/kserve/kserve - Standardized Serverless ML Inference Platform
 
 https://github.com/SeldonIO/seldon-core
 
+https://github.com/oracle/macest - model confidence calibration
+
+https://github.com/IDSIA/sacred - configure, organize, log and reproduce experiments
+
+https://github.com/ray-project/ray - Distributed whole AI model lifecycle. training, serving, preprocessing. 5*
+
+
+
 ## Augmentation
 https://github.com/facebookresearch/AugLy
 
@@ -135,6 +143,8 @@ https://github.com/python-attrs/attrs -  DTOs.
 
 https://github.com/python-injector/injector - Dependency injection for Python.
 
+https://github.com/facebookresearch/hydra - Configurations 
+
 https://github.com/tiangolo/typer - CLI building tool. 
 
 https://github.com/pallets/click - CLI building tool. 
@@ -160,6 +170,7 @@ https://github.com/openapi-generators/openapi-python-client - Generate modern Py
 
 https://github.com/apicollective/apibuilder - Comprehensive Tooling for APIs, automated code generation.
 
+https://github.com/Kong/kong - API gateway
 
 
 
@@ -225,6 +236,10 @@ https://github.com/jazzband/pip-tools - Manage PIP dependency, pinning, updates 
 https://github.com/aldjemy/aldjemy - Integration SQLAlchemy in Django projects for effective query building purposes
 
 https://github.com/oxan/djangorestframework-dataclasses - Dataclasses serializer for Django REST framework
+
+https://github.com/tfranzel/drf-spectacular - Better open api support for DRF
+
+
 
 https://github.com/graphql-python/graphene-django - Django Graphql
 
