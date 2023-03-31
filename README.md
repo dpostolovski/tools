@@ -10,6 +10,12 @@ https://github.com/gruntwork-io/terragrunt - Manage terraform at scale.
 
 https://github.com/hashicorp/terraform-cdk - CDK like interface to terraform.
 
+https://github.com/terraform-linters/tflint - Linter for terraform
+
+https://github.com/aquasecurity/tfsec - Terraform static code analysis
+
+https://github.com/tenable/terrascan - Terraform static code analysis
+
 https://github.com/cdk8s-team/cdk8s - CDK for kubernetes.
 
 https://github.com/pulumi/pulumi - Alternative to terraform
