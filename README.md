@@ -35,6 +35,10 @@ https://github.com/open-policy-agent/opa -  general-purpose policy engine, allow
 ## Monitoring and observability
 https://github.com/open-telemetry/opentelemetry-demo - Reference implementation of opentelemetry
 
+https://github.com/open-telemetry/opentelemetry-python 
+
+
+
 
 
 # Testing
@@ -57,6 +61,12 @@ https://github.com/google/oss-fuzz - Fuzz testing
 https://github.com/KissPeter/APIFuzzer - API fuzz testing
 
 https://github.com/GoogleChrome/lighthouse - Automated auditing, performance metrics, and best practices for the web.
+
+https://github.com/faker-js/faker - Fake data generator.
+
+https://github.com/cypress-io/cypress-realworld-app - Cypress reference implementation.
+
+https://github.com/thoughtbot/fishery - Factory pattern for test data.
 
 
 
@@ -103,10 +113,20 @@ https://github.com/pallets/click - CLI building tool.
 
 https://github.com/joealcorn/laboratory - Testing in production. Shadow code execution, compare results.
 
+https://github.com/statelyai/xstate - State machines
+
+
+
 ## APIs
 https://github.com/python-openapi/openapi-core - Validation and unmarshalling of request and response data,Integration with popular libraries (Requests, Werkzeug) and frameworks (Django, Falcon, Flask, Starlette)
 
 https://github.com/python-jsonschema/jsonschema 
+
+https://github.com/openapi-generators/openapi-python-client - Generate modern Python clients from OpenAPI
+
+https://github.com/apicollective/apibuilder - Comprehensive Tooling for APIs, automated code generation.
+
+
 
 
 
@@ -168,6 +188,8 @@ https://github.com/tbicr/django-pg-zero-downtime-migrations
 https://github.com/rsinger86/django-lifecycle - Alternative to django signals.
 
 https://github.com/django-json-api/django-rest-framework-json-api - JSON:API support for Django REST framework
+
+https://github.com/cookiecutter/cookiecutter-django - jumpstarting production-ready Django projects quickly.
 
 
 
