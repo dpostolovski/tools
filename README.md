@@ -89,6 +89,9 @@ https://github.com/kserve/kserve - Standardized Serverless ML Inference Platform
 
 https://github.com/SeldonIO/seldon-core
 
+## Augmentation
+https://github.com/facebookresearch/AugLy
+
 ## Hyperparameter optimization
 https://github.com/optuna/optuna 
 
