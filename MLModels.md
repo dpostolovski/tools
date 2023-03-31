@@ -18,3 +18,5 @@ https://github.com/facebookresearch/salina - a Lightweight library for sequentia
 ## Image
 
 https://github.com/qubvel/segmentation_models.pytorch
+
+https://github.com/facebookresearch/detectron2
