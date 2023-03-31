@@ -50,6 +50,8 @@ https://github.com/mutpy/mutpy - Mutation testing
 
 https://github.com/boxed/mutmut - Mutation testing
 
+https://github.com/HypothesisWorks/hypothesis - Property based testing
+
 https://github.com/pact-foundation/pact-python - Consumer driven contract testing.
 
 https://github.com/schemathesis/schemathesis - Property based testing from API spec.
@@ -57,6 +59,8 @@ https://github.com/schemathesis/schemathesis - Property based testing from API s
 https://github.com/google/clusterfuzz - Fuzz testing
 
 https://github.com/google/oss-fuzz - Fuzz testing
+
+https://github.com/google/clusterfuzzlite - Fuzz testing in CI
 
 https://github.com/KissPeter/APIFuzzer - API fuzz testing
 
