@@ -30,12 +30,23 @@ https://github.com/cilium/cilium - providing, securing, and observing network co
 
 https://github.com/infracost/infracost - Cloud cost estimates for Terraform in pull requests
 
+https://github.com/hadolint/hadolint - Dockerfile linter
 
 
 
 ## Security
 
 https://github.com/open-policy-agent/opa -  general-purpose policy engine, allow/deny requests, actions
+
+https://github.com/authelia/authelia - sso
+
+https://github.com/keycloak/keycloak - sso
+
+https://github.com/falcosecurity/falco - container security monitoring, define rules for allowed/disallowed actions. intrusion detection
+
+https://github.com/docker/docker-bench-security 
+
+
 
 
 
@@ -73,6 +84,8 @@ https://github.com/google/oss-fuzz - Fuzz testing
 https://github.com/google/clusterfuzzlite - Fuzz testing in CI
 
 https://github.com/KissPeter/APIFuzzer - API fuzz testing
+
+https://github.com/behave/behave - Behaviour driven development
 
 https://github.com/GoogleChrome/lighthouse - Automated auditing, performance metrics, and best practices for the web.
 
@@ -130,6 +143,10 @@ https://github.com/cortexlabs/cortex - Deploy ML models
 https://github.com/iterative/cml - Results in a pull request
 
 https://github.com/kedro-org/kedro - Data catalog, pipelines, deployment
+
+https://github.com/mlflow/mlflow - tracking experiments
+
+
 
 
 
