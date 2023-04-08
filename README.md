@@ -120,6 +120,8 @@ https://github.com/Netflix/metaflow
 
 https://github.com/voila-dashboards/voila - jupyter notebooks to web apps / dashboards
 
+https://github.com/streamlit/streamlit - dashboards
+
 https://github.com/EpistasisLab/tpot - Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
 
 https://github.com/microsoft/nni - AutoML toolkit 
