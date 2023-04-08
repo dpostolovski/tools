@@ -338,6 +338,8 @@ https://github.com/ToolJet/ToolJet - Dashboards
 
 # Data
 
+https://github.com/modin-project/modin - scalable dataframes 
+
 https://github.com/amundsen-io/amundsen - Data catalog
 
 https://github.com/datahub-project/datahub - Data catalog
