@@ -188,6 +188,8 @@ https://github.com/backstage/backstage - Development portals
 
 
 # Development
+https://github.com/octoenergy/conventions/ - some nice  conventions 
+
 https://github.com/localstack/localstack - A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 
 https://github.com/tilt-dev/tilt - Local development of microservices.
