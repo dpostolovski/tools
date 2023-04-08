@@ -330,7 +330,7 @@ https://github.com/dagster-io/dagster - Orchestration for data pipelines.
 
 
 # Dashbords
-
+https://github.com/holoviz/datashader - large visualization (maps of milions etc)
 
 https://github.com/getredash/redash - Dashboard tool, multi datasources
 
