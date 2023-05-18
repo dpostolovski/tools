@@ -6,6 +6,8 @@
 https://github.com/pre-commit/pre-commit
 
 # Infrastructure
+https://github.com/aws/karpenter - autoscale kubernetes nodes
+
 https://github.com/gruntwork-io/terragrunt - Manage terraform at scale.
 
 https://github.com/hashicorp/terraform-cdk - CDK like interface to terraform.
