@@ -326,6 +326,8 @@ https://github.com/lmacken/pyrasite - Inject code into running Python processes
 # Databases
 https://github.com/cockroachdb/cockroach - Cloud native distributed SQL 
 
+https://github.com/ClickHouse/ClickHouse - Distributed OLAP DBMS
+
 # ETL
 
 https://github.com/dagster-io/dagster - Orchestration for data pipelines.
