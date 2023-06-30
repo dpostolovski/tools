@@ -10,6 +10,8 @@ https://github.com/aws/karpenter - autoscale kubernetes nodes
 
 https://github.com/gruntwork-io/terragrunt - Manage terraform at scale.
 
+https://github.com/terraform-compliance/cli - terraform compliance as code 
+
 https://github.com/hashicorp/terraform-cdk - CDK like interface to terraform.
 
 https://github.com/terraform-linters/tflint - Linter for terraform
