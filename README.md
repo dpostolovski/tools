@@ -344,6 +344,8 @@ https://github.com/getredash/redash - Dashboard tool, multi datasources
 
 https://github.com/ToolJet/ToolJet - Dashboards
 
+https://github.com/metabase/metabase - BI/product metrics/analytics
+
 # Data
 
 https://github.com/modin-project/modin - scalable dataframes 
