@@ -40,6 +40,8 @@ https://github.com/hadolint/hadolint - Dockerfile linter
 
 ## Security
 
+https://services.google.com/fh/files/misc/google-cloud-security-foundations-guide.pdf - GCP cloud foundations
+
 https://github.com/open-policy-agent/opa -  general-purpose policy engine, allow/deny requests, actions
 
 https://github.com/authelia/authelia - sso
