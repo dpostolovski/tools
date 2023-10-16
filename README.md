@@ -6,6 +6,19 @@
 https://github.com/pre-commit/pre-commit
 
 # Infrastructure
+https://github.com/gruntwork-io/terratest -  write automated tests for your infrastructure code
+
+https://github.com/newcontext-oss/kitchen-terraform - testing Terraform configurations
+
+https://github.com/GoogleCloudPlatform/cloud-foundation-fabric -  landing zones toolkit for Terraform on GCP
+
+https://github.com/terraform-google-modules/terraform-google-project-factory - opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs
+
+https://github.com/GoogleCloudPlatform/terraform-python-testing-helper - Python test helper for Terraform.
+
+https://github.com/terraform-google-modules/terraform-example-foundation 
+
+
 https://github.com/rancher/rancher - manage kubernetes at scale and deploy it anywhere
 
 https://github.com/aws/karpenter - autoscale kubernetes nodes
@@ -41,6 +54,8 @@ https://github.com/hadolint/hadolint - Dockerfile linter
 
 
 ## Security
+https://github.com/Azure/Azure-Sentinel - Cloud-native SIEM for intelligent security analytics
+
 https://github.com/demisto/content -  security orchestration automation and response platform
 
 https://github.com/OWASP/ASVS - checklist for application security
@@ -48,6 +63,8 @@ https://github.com/OWASP/ASVS - checklist for application security
 https://services.google.com/fh/files/misc/google-cloud-security-foundations-guide.pdf - GCP cloud foundations
 
 https://github.com/open-policy-agent/opa -  general-purpose policy engine, allow/deny requests, actions
+
+https://github.com/open-policy-agent/conftest - testing for opa
 
 https://github.com/authelia/authelia - sso
 
@@ -129,6 +146,12 @@ https://github.com/google/or-tools - linear programing solvers, Traveling Salesm
 
 
 # ML 
+https://github.com/oegedijk/explainerdashboard - Explainable AI dashboards 
+
+https://github.com/plotly/plotly.py -  interactive graphing library 
+
+https://github.com/sktime/sktime - timeseries machine learning
+ 
 https://github.com/kserve/kserve - Standardized Serverless ML Inference Platform on Kubernetes
 
 https://github.com/SeldonIO/seldon-core
@@ -195,6 +218,13 @@ https://github.com/kubeflow/katib
 https://github.com/heartexlabs/label-studio - Manual data labeling
 
 
+# Architecture components
+
+https://github.com/apache/pulsar - distributed pub-sub
+
+
+
+
 
 # Documentation
 https://github.com/swimmio/docs.swimm.io - Saas for code documentation
@@ -211,6 +241,20 @@ https://github.com/backstage/backstage - Development portals
 
 
 # Development
+https://github.com/PyCQA/isort - sorting of python imports
+
+https://github.com/asottile/pyupgrade - autoupgrade syntax in python for newer versions
+
+https://github.com/remult/remult - full-stack crud
+
+https://github.com/replicatedhq/dockerfilelint - docker linter
+
+https://github.com/adrienverge/yamllint - yaml lint
+
+https://github.com/stackrox/kube-linter - kubernetes linter
+
+https://github.com/zegl/kube-score - kubernetes linter
+
 https://github.com/Permify/permify - authorization/permission service
 
 https://github.com/n8n-io/n8n - workflow automation (open source zapier)
@@ -248,6 +292,8 @@ https://github.com/donnemartin/system-design-primer - Learn how to design large-
 
 
 ## APIs
+https://github.com/apigee - googles api management service
+
 https://github.com/python-openapi/openapi-core - Validation and unmarshalling of request and response data,Integration with popular libraries (Requests, Werkzeug) and frameworks (Django, Falcon, Flask, Starlette)
 
 https://github.com/python-jsonschema/jsonschema 
@@ -282,6 +328,13 @@ https://github.com/react-boilerplate/react-boilerplate - React bootstrap/boilerp
 https://github.com/ionic-team/capacitor - run web apps natively on iOS, Android, Web. 
 
 https://github.com/ionic-team/ionic-framework - UI toolkit
+
+https://github.com/vercel/turbo - build system for javascript/typescript
+
+https://github.com/nrwl/nx - build system
+
+https://github.com/microsoft/clarity - front-end user analytics
+
 
 
 
@@ -320,6 +373,8 @@ https://github.com/jazzband/pip-tools - Manage PIP dependency, pinning, updates 
 
 
 ## Django tools
+https://github.com/getsentry/craft - release cli that sentry uses
+
 https://github.com/aldjemy/aldjemy - Integration SQLAlchemy in Django projects for effective query building purposes
 
 https://github.com/oxan/djangorestframework-dataclasses - Dataclasses serializer for Django REST framework
@@ -377,6 +432,11 @@ https://github.com/ToolJet/ToolJet - Dashboards
 https://github.com/metabase/metabase - BI/product metrics/analytics
 
 # Data
+https://github.com/vaexio/vaex - Out-of-Core DataFrames to visualize and explore big tabular datasets
+
+https://github.com/pola-rs/polars -  hybrid-out-of-core query engine
+
+https://github.com/fugue-project/fugue -  unified interface for distributed computing. Fugue executes SQL, Python, Pandas, and Polars code on Spark, Dask and Ray without any rewrites.
 
 https://github.com/modin-project/modin - scalable dataframes 
 
