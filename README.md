@@ -6,6 +6,12 @@
 https://github.com/pre-commit/pre-commit
 
 # Infrastructure
+https://github.com/terraform-compliance/cli - a lightweight, security focused, BDD test framework against terraform.
+
+https://github.com/onicagroup/runway - management of multiple teraform enivroments, testing of infra
+
+https://github.com/runatlantis/atlantis - Terraform Pull Request Automation
+
 https://github.com/ergomake/layerform -  reusable environment stacks and "dependency" management between stacks
 
 https://github.com/gruntwork-io/terratest -  write automated tests for your infrastructure code
@@ -56,6 +62,10 @@ https://github.com/hadolint/hadolint - Dockerfile linter
 
 
 ## Security
+https://github.com/Netflix/dispatch - All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
+
+https://github.com/projectcalico/calico - Cloud native networking and network security
+
 https://github.com/PyCQA/bandit - SAST for python
 
 https://github.com/zeek/zeek - network IDS
@@ -147,6 +157,10 @@ https://github.com/openzipkin/zipkin - distributed system tracing
 https://github.com/SigNoz/signoz - opentelemetry traces
 
 
+# load balancers
+
+https://github.com/github/glb-director 
+
 
 # Testing
 https://github.com/grafana/k6 - Load and performance testing
@@ -193,9 +207,26 @@ https://github.com/hubotio/hubot - Chatops bot
 
 https://github.com/google/or-tools - linear programing solvers, Traveling Salesman, vehicle routing problem
 
+# dashboards
+
+https://github.com/metabase/metabase - 
+
+# Medical standards/protocols
+
+https://github.com/pydicom/pynetdicom 
+
+https://github.com/mbzuai-oryx/XrayGPT
+
+
 
 
 # ML 
+https://github.com/facebookarchive/planout - experiment generating library
+
+
+
+https://github.com/bigscience-workshop/petals - peer run LLMs  BitTorrent-style
+
 https://github.com/oegedijk/explainerdashboard - Explainable AI dashboards 
 
 https://github.com/plotly/plotly.py -  interactive graphing library 
@@ -293,6 +324,19 @@ https://github.com/backstage/backstage - Development portals
 
 
 # Development
+
+https://github.com/prisma/prisma -  ORM for Node.js & TypeScript
+
+https://github.com/ets-labs/python-dependency-injector
+
+https://github.com/OpenAPITools/openapi-diff 
+
+https://github.com/geekan/MetaGPT - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
+
+https://github.com/renovatebot/renovate - Universal dependency update tool that fits into your workflows.
+
+https://github.com/Tufin/oasdiff - OpenAPI Diff and Breaking Changes
+
 https://github.com/python-poetry/poetry - Python packaging and dependency management made easy
 
 https://github.com/sqlfluff/sqlfluff - sql linter
@@ -380,6 +424,8 @@ https://github.com/psf/black - Python formatter
 
 
 ## Frontend tools
+
+https://github.com/mobxjs/mobx-state-tree - Full-featured reactive state management
 
 https://github.com/storybookjs/storybook - Develop UI components and pages in isolation.
 
@@ -472,11 +518,17 @@ https://github.com/lmacken/pyrasite - Inject code into running Python processes
 
 
 # Databases
+https://github.com/openark/orchestrator - MySQL replication topology management and HA
+
 https://github.com/cockroachdb/cockroach - Cloud native distributed SQL 
 
 https://github.com/ClickHouse/ClickHouse - Distributed OLAP DBMS
 
 https://github.com/apache/hive - data warehouse built on apache hadoop
+
+https://github.com/sorintlab/stolon - HA for postgres
+
+https://github.com/github/gh-ost - GitHub's Online Schema-migration Tool for MySQL
 
 
 # ETL
@@ -494,6 +546,10 @@ https://github.com/ToolJet/ToolJet - Dashboards
 https://github.com/metabase/metabase - BI/product metrics/analytics
 
 # Data
+https://github.com/dbt-labs/dbt-core - data development tools and framework
+
+https://github.com/igorbarinov/awesome-data-engineering - data engineering tools
+
 https://github.com/meltano/meltano - data integration engine (declarative ELT)
 
 https://github.com/meltano/squared - meltano examples
@@ -535,7 +591,9 @@ https://github.com/Netflix/genie -  distributed job orchestration engine. run a 
 https://github.com/open-metadata/OpenMetadata - data catalog
 
 
+# realtime systems
 
+https://github.com/zephyrproject-rtos/zephyr - ephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
 
 
 ## Transformations
