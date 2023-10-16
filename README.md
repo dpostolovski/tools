@@ -6,6 +6,8 @@
 https://github.com/pre-commit/pre-commit
 
 # Infrastructure
+https://github.com/rancher/rancher - manage kubernetes at scale and deploy it anywhere
+
 https://github.com/aws/karpenter - autoscale kubernetes nodes
 
 https://github.com/gruntwork-io/terragrunt - Manage terraform at scale.
@@ -39,6 +41,9 @@ https://github.com/hadolint/hadolint - Dockerfile linter
 
 
 ## Security
+https://github.com/demisto/content -  security orchestration automation and response platform
+
+https://github.com/OWASP/ASVS - checklist for application security
 
 https://services.google.com/fh/files/misc/google-cloud-security-foundations-guide.pdf - GCP cloud foundations
 
@@ -52,6 +57,12 @@ https://github.com/falcosecurity/falco - container security monitoring, define r
 
 https://github.com/docker/docker-bench-security 
 
+https://github.com/aquasecurity/trivy - scanning tool
+
+https://github.com/zaproxy/zaproxy - automated penetration testing/scanner 
+
+https://github.com/aquasecurity/tracee - linux runtime security and forensics
+
 
 
 
@@ -64,7 +75,9 @@ https://github.com/open-telemetry/opentelemetry-python
 
 https://github.com/rollbar/pyrollbar - Rollbar monitoring platform.
 
+https://github.com/openzipkin/zipkin - distributed system tracing
 
+https://github.com/SigNoz/signoz - opentelemetry traces
 
 
 
@@ -109,6 +122,10 @@ https://github.com/actions/toolkit - GitHub actions toolkit
 
 https://github.com/hubotio/hubot - Chatops bot
 
+# optimization probblems
+
+https://github.com/google/or-tools - linear programing solvers, Traveling Salesman, vehicle routing problem
+
 
 
 # ML 
@@ -127,6 +144,8 @@ https://github.com/Netflix/metaflow
 https://github.com/voila-dashboards/voila - jupyter notebooks to web apps / dashboards
 
 https://github.com/streamlit/streamlit - dashboards
+
+https://github.com/mckinsey/vizro - data visualization
 
 https://github.com/EpistasisLab/tpot - Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
 
@@ -172,8 +191,6 @@ https://github.com/optuna/optuna-examples
 https://github.com/kubeflow/katib 
 
 
-
-
 ## Ground truth
 https://github.com/heartexlabs/label-studio - Manual data labeling
 
@@ -194,6 +211,10 @@ https://github.com/backstage/backstage - Development portals
 
 
 # Development
+https://github.com/Permify/permify - authorization/permission service
+
+https://github.com/n8n-io/n8n - workflow automation (open source zapier)
+
 https://github.com/openflagr/flagr - Feature flags and A/B testing 
 
 https://github.com/octoenergy/conventions/ - some nice  conventions 
@@ -305,6 +326,10 @@ https://github.com/oxan/djangorestframework-dataclasses - Dataclasses serializer
 
 https://github.com/tfranzel/drf-spectacular - Better open api support for DRF
 
+https://github.com/typeddjango/django-stubs - stubs
+
+https://github.com/pytest-dev/pytest-django - django and pytest
+
 
 
 https://github.com/graphql-python/graphene-django - Django Graphql
@@ -333,6 +358,9 @@ https://github.com/lmacken/pyrasite - Inject code into running Python processes
 https://github.com/cockroachdb/cockroach - Cloud native distributed SQL 
 
 https://github.com/ClickHouse/ClickHouse - Distributed OLAP DBMS
+
+https://github.com/apache/hive - data warehouse built on apache hadoop
+
 
 # ETL
 
