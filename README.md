@@ -6,6 +6,8 @@
 https://github.com/pre-commit/pre-commit
 
 # Infrastructure
+https://github.com/ergomake/layerform -  reusable environment stacks and "dependency" management between stacks
+
 https://github.com/gruntwork-io/terratest -  write automated tests for your infrastructure code
 
 https://github.com/newcontext-oss/kitchen-terraform - testing Terraform configurations
@@ -54,6 +56,54 @@ https://github.com/hadolint/hadolint - Dockerfile linter
 
 
 ## Security
+https://github.com/PyCQA/bandit - SAST for python
+
+https://github.com/zeek/zeek - network IDS
+
+https://github.com/OISF/suricata -  network Intrusion Detection System
+
+https://github.com/falcosecurity-retire/kubernetes-response-engine - A response engine for Falco that allows to process security events executing playbooks to respond to security threats
+
+https://github.com/draios/sysdig-inspect - Sysdig Inspect - A powerful opensource interface for container troubleshooting and security investigation
+
+https://github.com/google/grr - GRR Rapid Response: remote live forensics for incident response. 
+
+https://github.com/google/docker-explorer - A tool to help forensicate offline docker acquisitions
+
+https://github.com/google/container-explorer
+
+https://github.com/docker-forensics-toolkit/toolkit - A toolkit for the post-mortem examination of Docker containers from forensic HDD copies
+
+https://github.com/draios/sysdig - Linux system exploration and troubleshooting tool with first class support for containers
+
+https://github.com/504ensicsLabs/LiME - allows the acquisition of volatile memory from Linux and Linux-based devices
+
+https://github.com/ThreatResponse/margaritashotgun - Remote Memory Acquisition Tool
+
+https://github.com/awslabs/aws-security-automation - Collection of scripts and resources for DevSecOps and Automated Incident Response Security
+
+https://github.com/ThreatResponse/aws_ir - Python installable command line utiltity for mitigation of host and key compromises.
+
+https://github.com/VirusTotal/yara - fingerprinting and pattern matching for malware
+
+https://github.com/google/rekall - memory forensics
+
+https://github.com/sysdiglabs/kubectl-capture - A kubectl plugin which triggers a Sysdig capture
+
+https://github.com/google/cloud-forensics-utils - Digital Forensics and Incident Response on the cloud
+
+https://github.com/google/gvisor - kernel for containers
+
+https://github.com/log2timeline/dftimewolf - ramework for orchestrating forensic collection, processing and data export
+
+https://github.com/google/turbinia - Automation and Scaling of Digital Forensics Tools
+
+https://github.com/MISP/MISP - Open Source Threat Intelligence and Sharing Platform
+
+https://github.com/google/timesketch - Collaborative forensic timeline analysis
+
+https://github.com/log2timeline/plaso - timeline for forensic analysis
+
 https://github.com/Azure/Azure-Sentinel - Cloud-native SIEM for intelligent security analytics
 
 https://github.com/demisto/content -  security orchestration automation and response platform
@@ -170,6 +220,8 @@ https://github.com/streamlit/streamlit - dashboards
 
 https://github.com/mckinsey/vizro - data visualization
 
+https://github.com/apache/superset - data visualizations
+
 https://github.com/EpistasisLab/tpot - Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
 
 https://github.com/microsoft/nni - AutoML toolkit 
@@ -241,6 +293,16 @@ https://github.com/backstage/backstage - Development portals
 
 
 # Development
+https://github.com/python-poetry/poetry - Python packaging and dependency management made easy
+
+https://github.com/sqlfluff/sqlfluff - sql linter
+
+https://github.com/pre-commit/pre-commit-hooks 
+
+https://github.com/stoplightio/spectral - json/yaml linter, rule validation
+
+https://github.com/hynek/environ-config - Python Application Configuration With Environment Variables
+
 https://github.com/PyCQA/isort - sorting of python imports
 
 https://github.com/asottile/pyupgrade - autoupgrade syntax in python for newer versions
@@ -432,6 +494,20 @@ https://github.com/ToolJet/ToolJet - Dashboards
 https://github.com/metabase/metabase - BI/product metrics/analytics
 
 # Data
+https://github.com/meltano/meltano - data integration engine (declarative ELT)
+
+https://github.com/meltano/squared - meltano examples
+
+https://github.com/airbytehq/airbyte - Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.
+
+https://github.com/unionai-oss/pandera - expressive statistical data testing library
+
+https://github.com/areshytko/typedframe - Typed wrappers over pandas DataFrames with schema validation
+
+https://github.com/nanne-aben/strictly_typed_pandas 
+
+https://github.com/joblib/joblib - Computing with Python functions.
+
 https://github.com/vaexio/vaex - Out-of-Core DataFrames to visualize and explore big tabular datasets
 
 https://github.com/pola-rs/polars -  hybrid-out-of-core query engine
